@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "right to tab on Asana",
+  "version": "0.1.0",
+  "description": "protect your right to tab on Asana",
+  "content_scripts": [
+    {
+      "matches": ["https://app.asana.com/*"],
+      "js": ["content_scripts/protect.js"],
+      "run_at": "document_start"
+    }
+  ]
+}

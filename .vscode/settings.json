@@ -1,0 +1,11 @@
+{
+  "json.validate.enable": true,
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "manifest.json",
+      ],
+      "url": "https://json.schemastore.org/webextension.json",
+    },
+  ]
+}
