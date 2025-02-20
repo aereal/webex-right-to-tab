@@ -9,6 +9,13 @@ Vivaldi's keyboard shortcuts sometimes stolen from sites that including [Asana][
 
 This extension prevents such highjacking from Asana.
 
+## Install
+
+1. Open `Extensions` page on your browser.
+1. Turn on `Developer mode`.
+1. Clone this repository.
+1. `Load unpacked` and specify this repository.
+
 ## Original works
 
 [ブラウザ「Vivaldi」で、Ctrl+Tabが利かないサイトが気になったときの対処 - 俵のメモ帳](https://tawara-memo.hatenablog.com/entry/2024/10/20/135716) (Japanese article)
